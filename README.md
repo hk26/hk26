@@ -7,3 +7,4 @@
 hk26/hk26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Red and Blue Colorful Infographic Resume](https://user-images.githubusercontent.com/59575591/113729418-a2b76480-9714-11eb-858c-2d35d820e007.png)
