@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hk26
 - 👀 I’m interested Android & ui design and web design or frontend design works.
 - 🌱 I’m currently learning Android & html,css,js for frontend webdesign.  
-- 📫 you can text me on instagram @_h_k_26_ or you can ping me on Linkedin @HK.
+- 📫 you can text me on instagram   <a href="https://www.instagram.com/_h_k_26_/">@_h_k_26_</a>  or you can ping me on Linkedin <a href="https://www.linkedin.com/in/harsh-kanazariya-7344831a9/">@Harsh Kanazariya</a>.
 - i also worked on one android Project named plant it & city portal named Digital Dhrangadhra, the website for our city. 
 - currently woking on Ai based support chat-bot for our website Digital Dhrangadhra.
 <!---
