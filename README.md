@@ -3,7 +3,7 @@
 <h3 align ="center">Learner! 👨‍💻</h3>
 <br>
 
-<p>- 👀 I’m interested Android & ui design and web design or frontend design works.</p>
+<p>- 👀 UI / Visual Design, Product Design, UX Design / Research </p>
 <br>
 <h3>📫 connect with me :- </h3>
 <br>
