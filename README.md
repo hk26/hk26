@@ -3,9 +3,6 @@
 <h3 align ="center">Learner! 👨‍💻</h3>
 <br>
 
-<p>- 🌱 I’m currently into Android App Development.</p>
-<br>
-
 <p>- 👀 I’m interested Android & ui design and web design or frontend design works.</p>
 <br>
 
