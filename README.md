@@ -5,10 +5,6 @@
 
 <p>- 👀 I’m interested Android & ui design and web design or frontend design works.</p>
 <br>
-
-<p>- currently woking on Ai based support chat-bot for our website Digital Dhrangadhra.</p>
-<br>
-
 <h3>📫 connect with me :- </h3>
 <br>
 <p align="left" >
